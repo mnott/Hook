@@ -1,3 +1,7 @@
+---
+links: "[[Ideaverse/AI/Hook/Hook|Hook]]"
+---
+
 # hookmark-mcp
 
 MCP server that gives Claude Code (and other MCP clients) full access to [Hookmark](https://hookproductivity.com) — the macOS app that creates bidirectional links between files, URLs, emails, notes, and anything else with an address.
@@ -366,3 +370,6 @@ MIT
 ## Author
 
 Matthias Nott — [github.com/mnott](https://github.com/mnott)
+
+---
+*Links:* [[Ideaverse/AI/Hook/Hook|Hook]]
